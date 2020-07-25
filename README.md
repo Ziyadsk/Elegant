@@ -6,4 +6,4 @@
 ![](./images/screenshot.jpg)
 
 # Installation
-[Open in vscode](vscode:extension/ziyadsk.elegant)
+[Install](https://marketplace.visualstudio.com/items?itemName=ziyadsk.elegant)
