@@ -1,21 +1,41 @@
 {
-    "name": "elegant",
-    "displayName": "Elegant",
-    "description": "a clean theme for vscode",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Elegant",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Elegant-color-theme.json"
-            }
-        ]
-    }
+  "name": "elegant",
+  "displayName": "Elegant",
+  "description": "A clean theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Elegant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elegant-color-theme.json"
+      },
+      {
+        "label": "Elegant Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elegant-color-theme-blue.json"
+      },
+      {
+        "label": "Elegant Dark Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elegant-color-theme-dark-blue.json"
+      },
+      {
+        "label": "Elegant Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elegant-color-theme-purple.json"
+      },
+      {
+        "label": "Elegant Very Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Elegant-color-theme-very-dark.json"
+      }
+    ]
+  }
 }
