@@ -5,4 +5,5 @@
 ![](./images/screenshot.jpg)
 
 # Installation
-[Open in vscode](vscode:extension/ziyadsk.elegant)
+<a href="vscode:extension/ziyadsk.elegant">Open in vscode</a>
+
