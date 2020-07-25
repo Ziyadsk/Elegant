@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "publisher": "ziyadsk",
   "repository": "https://github.com/ziyadsk/elegant",
-  "icon": "./images/elegant-logo-128.png",
+  "icon": "images/elegant-logo-128.png",
   "engines": {
     "vscode": "^1.47.0"
   },
