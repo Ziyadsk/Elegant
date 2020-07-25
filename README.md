@@ -1,4 +1,4 @@
-![](./images/elegant-logo.svg)
+![](./images/elegant-logo-128.png)
 # Elegant
 *A clean and elegant vscode theme*
 
