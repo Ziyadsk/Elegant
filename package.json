@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "publisher": "ziyadsk",
   "repository": "https://github.com/ziyadsk/elegant",
+  "icon": "./images/elegant-logo-128.png",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -39,5 +40,10 @@
         "path": "./themes/Elegant-color-theme-very-dark.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "d7b6aa35-c5b6-45d4-99e8-6711877dd2f5",
+    "publisherDisplayName": "ziyadsk",
+    "publisherId": "abc0eee7-74de-43f7-a193-eeb5de79a9c6"
   }
 }
