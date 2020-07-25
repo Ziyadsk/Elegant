@@ -1,4 +1,5 @@
-![](./images/elegant-logo-128.png =128x128)
+<img src="images/elegant-logo-128.png" width=128/>
+
 # Elegant
 *A clean and elegant vscode theme*
 
@@ -6,4 +7,3 @@
 
 # Installation
 <a href="vscode:extension/ziyadsk.elegant">Open in vscode</a>
-
