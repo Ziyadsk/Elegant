@@ -2,11 +2,18 @@
   "name": "Elegant",
   "type": "dark",
   "colors": {
+    /* Main background */
     "editor.background": "#1b262c",
+
+    /* title bar */
+    "titleBar.activeBackground": "#1b262c",
+
     "editor.foreground": "#eeffff",
     "activityBar.background": "#1b262c",
     "sideBar.background": "#1d252a",
     "statusBar.background": "#11181c",
+    "statusBar.noFolderBorder": "#11181c",
+    "statusBar.noFolderBackground": "#11181c",
     "activityBarBadge.background": "#798DA4",
     "activityBar.foreground": "#80BBC5",
     "sideBarTitle.foreground": "#ddd8d8",
