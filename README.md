@@ -1,4 +1,6 @@
-<img src="images/elegant-logo-128.png" width=128/>
+<p align="center">
+<img center src="images/elegant-logo-128.png" width=128/>
+</p>
 
 # Elegant
 *A clean and elegant vscode theme*
