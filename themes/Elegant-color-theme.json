@@ -132,15 +132,20 @@
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "constant.language",
         "support.constant",
         "constant.character",
         "constant.escape",
-        "keyword.other.unit",
-        "keyword.other"
+        "keyword.other",
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#e0bce6"
+      }
+    },
+    {
+      "scope": ["constant.language"],
+      "settings": {
+        "foreground": "#d5ab9c"
       }
     },
     {
@@ -317,7 +322,7 @@
       "name": "Escape Characters",
       "scope": ["constant.character.escape"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#e0f4fb"
       }
     },
     {
