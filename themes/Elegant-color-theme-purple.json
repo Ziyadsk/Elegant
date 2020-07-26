@@ -29,7 +29,9 @@
     "dropdown.background": "#1f2639",
     "dropdown.listBackground": "#1f2639",
 
-    "button.background": "#1f2639"
+    "button.background": "#1f2639",
+
+    "input.background": "#283149"
   },
   "tokenColors": [
     {

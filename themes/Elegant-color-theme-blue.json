@@ -22,7 +22,6 @@
     "list.focusBackground": "#01273b",
     "quickInput.background": "#03324d",
     "quickInput.foreground": "#dbedf3",
-    "input.background": "#03324d",
     "editorSuggestWidget.background": "#01273b",
     "list.hoverBackground": "#03324d",
     "editorSuggestWidget.selectedBackground": "#012030",
@@ -31,7 +30,9 @@
     "dropdown.background": "#011c2a",
     "dropdown.listBackground": "#011c2a",
 
-    "button.background": "#01273b"
+    "button.background": "#01273b",
+
+    "input.background": "#022c43"
   },
   "tokenColors": [
     {
