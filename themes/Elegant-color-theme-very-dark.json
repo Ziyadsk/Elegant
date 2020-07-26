@@ -26,7 +26,10 @@
     "input.background": "#0e0e12",
     "list.hoverBackground": "#0e0e12",
     "editorSuggestWidget.background": "#0e0e12",
-    "editorSuggestWidget.selectedBackground": "#1c1e24"
+    "editorSuggestWidget.selectedBackground": "#1c1e24",
+
+    "dropdown.background": "#111216",
+    "dropdown.listBackground": "#111216"
   },
   "tokenColors": [
     {

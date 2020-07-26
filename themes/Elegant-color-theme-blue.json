@@ -26,7 +26,12 @@
     "editorSuggestWidget.background": "#01273b",
     "list.hoverBackground": "#03324d",
     "editorSuggestWidget.selectedBackground": "#012030",
-    "editorSuggestWidget.border": "#001c2b"
+    "editorSuggestWidget.border": "#001c2b",
+
+    "dropdown.background": "#011c2a",
+    "dropdown.listBackground": "#011c2a",
+
+    "button.background": "#01273b"
   },
   "tokenColors": [
     {
