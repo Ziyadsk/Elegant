@@ -8,7 +8,13 @@
     "titleBar.activeBackground": "#283149",
 
     "activityBar.background": "#283149",
+
     "sideBar.background": "#242c42",
+    "list.activeSelectionBackground": "#1f2639",
+    "list.inactiveFocusBackground": "#1f2639",
+    "list.inactiveSelectionBackground": "#1f2639",
+    "list.hoverBackground": "#313c59",
+
     "statusBar.background": "#1f2639",
     "statusBar.noFolderBackground": "#1f2639",
     "activityBarBadge.background": "#798DA4",
@@ -22,7 +28,7 @@
     "quickInput.background": "#1f2639",
     "quickInput.foreground": "#dbedf3",
     "terminal.background": "#242c42",
-    "list.hoverBackground": "#1f2639",
+
     "editorSuggestWidget.background": "#1f2639",
     "editorSuggestWidget.selectedBackground": "#283149",
     "editorSuggestWidget.border": "#242c42",

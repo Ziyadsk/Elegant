@@ -10,15 +10,23 @@
 
     "editor.foreground": "#eeffff",
     "activityBar.background": "#1b262c",
+
     "sideBar.background": "#1d252a",
+    "list.activeSelectionBackground": "#25343c",
+    "list.inactiveFocusBackground": "#25343c",
+    "list.inactiveSelectionBackground": "#25343c",
+    "list.hoverBackground": "#25343c",
+
     "statusBar.background": "#11181c",
     "statusBar.noFolderBorder": "#11181c",
     "statusBar.noFolderBackground": "#11181c",
     "activityBarBadge.background": "#798DA4",
     "activityBar.foreground": "#80BBC5",
     "sideBarTitle.foreground": "#ddd8d8",
+
     "tab.activeBackground": "#25343c",
     "tab.inactiveBackground": "#1b262c",
+
     "editorGroupHeader.tabsBackground": "#1b262c",
     "editorLineNumber.foreground": "#aaa",
     "terminal.background": "#1a2226",
