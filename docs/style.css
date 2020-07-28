@@ -10,11 +10,22 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: lobster;
   font-weight: lighter;
 }
-
+h3 a {
+  color: #cfc;
+  text-decoration: none;
+  font-size: 2em;
+}
+h3 a:hover {
+  text-decoration: none;
+  font-size: 2em;
+  text-decoration: underline;
+  color: rgb(20, 119, 89);
+}
 #links {
   padding: 2em;
   display: flex;
